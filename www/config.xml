@@ -4,7 +4,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "cat.numancia.control_esp8266"
         versionCode = "30" 
-        version     = "0.0.30" >
+        version     = "2.1.0" >
 	
 	<!-- versionCode is optional and Android only -->
 
@@ -13,7 +13,7 @@
    <name>BloodPong</name>
 
    <description>
-       Test per control.lar un NodeMCU 8266
+       Joc de pong de Bloodborne.
     </description>
 
     <author href="https://numancia.cat/intranet" email="jolivera73@iesnumancia.cat">
