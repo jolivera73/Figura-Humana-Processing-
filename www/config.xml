@@ -10,14 +10,14 @@
 
 	
 
-   <name>Control ESP8266</name>
+   <name>BloodPong</name>
 
    <description>
        Test per control.lar un NodeMCU 8266
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="jolivera73@iesnumancia.cat">
+       Joel Olivera
     </author>
 
 	<content src="index.html"/>
